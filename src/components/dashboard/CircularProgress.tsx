@@ -6,6 +6,8 @@ interface CircularProgressProps {
   size?: number;
 }
 
+
+
 const colorClasses = {
   blue: "stroke-[#0A2472]",
   red: "stroke-[#F24040]",
